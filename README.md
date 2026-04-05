@@ -12,9 +12,9 @@ Applied mathematics student at **Paris-Dauphine PSL** (M1, Major: Statistics), w
 
 I build things end-to-end — from raw data ingestion to model inference — and I care about the gap between a method that works in theory and one that holds up on real data. My background sits at the intersection of rigorous probability theory and applied statistical engineering, which is where quantitative finance lives.
 
-Joining a work-study programme in **September 2026** (1 week on-site / 1 week at Dauphine PSL).
+Joining a work-study programme in **September 2026** (3 days a week at work / 2 days at Dauphine PSL).
 
-**Languages:** French (native) · Portuguese (native) · English (C1) · Spanish (conversational)
+**Languages:** French (native) · Portuguese (native) · English (Advanced) · Spanish (conversational)
 
 ---
 
@@ -23,7 +23,7 @@ Joining a work-study programme in **September 2026** (1 week on-site / 1 week at
 ### 📐 Multiple Linear Regression — Student Performance
 `R` `Quarto` `tidyverse` `MASS` `car` `ggplot2`
 
-End-to-end regression analysis: inference and out-of-sample prediction on a ~1,000-observation dataset.
+End-to-end regression analysis: 
 - Full modelling pipeline: EDA → stepwise AIC selection → interaction screening → diagnostic validation
 - Four candidate models benchmarked across AIC, adjusted R², and held-out MSE — final model selected on predictive and inferential grounds
 - Assumption testing: Breusch-Pagan, Durbin-Watson, Shapiro-Wilk, Cook's distance, leverage diagnostics
@@ -95,6 +95,6 @@ Both teach the same thing: composure under pressure is a skill, not a trait — 
 
 ## What I'm looking for
 
-An **apprenticeship starting September 2026** — 1 week on-site / 1 week at Dauphine PSL.
+An **apprenticeship starting September 2026** — (3 days a week at work / 2 days at Dauphine PSL).
 Targeting roles in quantitative research, derivatives pricing, risk modelling, or systematic strategies.
 I work best in environments where the problems are hard, the standards are high, and intellectual rigour is non-negotiable.
