@@ -1,7 +1,5 @@
 # Victor Hadida
 
-
-
 [github.com/Vhadida](https://github.com/Vhadida)
 
 ---
