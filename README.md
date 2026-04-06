@@ -20,7 +20,7 @@ Joining a work-study programme in **September 2026** (3 days a week at work / 2 
 
 ## Selected Work
 
-### 📐 Multiple Linear Regression — Student Performance
+### [Multiple Linear Regression — Student Performance](https://github.com/Antoine-Le-Gouz-de-Saint-Seine/student-performance-linear-regression)
 `R` `Quarto` `tidyverse` `MASS` `car` `ggplot2`
 
 End-to-end regression analysis: 
