@@ -1,24 +1,12 @@
 # Victor Hadida
 
-**Seeking a September 2026 apprenticeship · Quantitative Finance**
 
-Paris, France · [LinkedIn](https://linkedin.com/in/victor-hadida) · victor.hadida@dauphine.eu · [github.com/Vhadida](https://github.com/Vhadida)
 
----
-
-## About
-
-Applied mathematics student at **Paris-Dauphine PSL** (M1, Major: Statistics), with coursework spanning stochastic calculus, Monte Carlo methods, statistical learning, time series, and Markov chain control.
-
-I build things end-to-end — from raw data ingestion to model inference — and I care about the gap between a method that works in theory and one that holds up on real data. My background sits at the intersection of rigorous probability theory and applied statistical engineering, which is where quantitative finance lives.
-
-Joining a work-study programme in **September 2026** (3 days a week at work / 2 days at Dauphine PSL).
-
-**Languages:** French (native) · Portuguese (native) · English (Advanced) · Spanish (conversational)
+[github.com/Vhadida](https://github.com/Vhadida)
 
 ---
 
-## Selected Work
+## Projects
 
 ### [Multiple Linear Regression — Student Performance](https://github.com/Antoine-Le-Gouz-de-Saint-Seine/student-performance-linear-regression)
 `R` `Quarto` `tidyverse` `MASS` `car` `ggplot2`
@@ -78,23 +66,3 @@ Sentiment analysis pipeline measuring the electoral impact of social media strat
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## Relevant Coursework
-
-`Brownian Motion & Contingent Claims Valuation` · `Monte Carlo Methods` · `Control of Markov Chains` · `Statistical Learning` · `Time Series` · `Optimisation` · `Lebesgue Integration & Probability Theory` · `Functional Analysis` · `Machine Learning`
-
----
-
-## One more thing
-
-Three years of Muay Thai, two of Brazilian Jiu-Jitsu.
-Both teach the same thing: composure under pressure is a skill, not a trait — and the person who stays methodical when it gets uncomfortable usually wins.
-
----
-
-## What I'm looking for
-
-An **apprenticeship starting September 2026** — (3 days a week at work / 2 days at Dauphine PSL).
-Targeting roles in quantitative research, derivatives pricing, risk modelling, or systematic strategies.
-I work best in environments where the problems are hard, the standards are high, and intellectual rigour is non-negotiable.
